@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_related_posts",
+  "info": {
+    "name": "Related Posts",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "collection": "posts"
+    }
+  }
+}

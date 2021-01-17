@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sections_images",
+  "info": {
+    "name": "Images",
+    "icon": "image"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true
+    }
+  }
+}
